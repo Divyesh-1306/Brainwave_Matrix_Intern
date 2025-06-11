@@ -20,7 +20,7 @@ This project is a fake news detection system.
 1.  Run the app:
 
     ```bash
-    python app.py
+    streamlit run app.py
     ```
 
 ## Files
